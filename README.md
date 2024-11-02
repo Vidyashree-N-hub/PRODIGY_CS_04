@@ -8,4 +8,4 @@ Legal and Ethical Considerations Using keyloggers without consent can be illegal
 
 Prevention To protect against keyloggers:
 
-Use strong antivirus and anti-malware software. Keep your operating system and applications updated. Be cautious with downloads and email attachments. Consider using on-screen keyboards for sensitive information. If you have specific questions about keyloggers or need information on a related topic, feel free to ask!
+Use strong antivirus and anti-malware software. Keep your operating system and applications updated. Be cautious with downloads and email attachments. Consider using on-screen keyboards for sensitive information. 
